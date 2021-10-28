@@ -18,7 +18,7 @@
 - Orders posted within 24 hours or sent immediately through Lynk/Porter (Chennai only)
 
 **Payment**
-- PayTM preferred, I will start working on the order *after* payment
+- PayTM preferred
 
 **Contact**
 - Discord: NNNI#6070
