@@ -7,6 +7,7 @@
 
 **Rates**
 - ₹100 fixed rate + ₹10 per hour + ₹5 per gram of filament + ₹50 black spray paint (optional)
+- Shipping cost extra
 
 **Shipping**
 - Shipping in Chennai through Lynk/Porter for (almost) instant delivery (₹100 - ₹200)
@@ -14,10 +15,10 @@
 
 **Delivery Time**
 - Printing normally takes a few hours give or take, depending on the size of the part, but mostly done on the same day
-- Orders posted in the evening (all-India) or sent immediately through Lynk/Porter (Chennai only).
+- Orders posted in the evening (all-India) or sent immediately through Lynk/Porter (Chennai only)
 
 **Payment**
-- PayTM preferred, I will start working on the order *after* payment. 
+- PayTM preferred, I will start working on the order *after* payment
 
 **Contact**
 - Discord: NNNI#6070
