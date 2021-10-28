@@ -22,4 +22,4 @@
 
 **Contact**
 - Discord: NNNI#6070
-- Note: I don't take more than two orders
+- Note: I don't take more than two orders at the same time
