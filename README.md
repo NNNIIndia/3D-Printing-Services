@@ -1,12 +1,12 @@
 # NNNI's 3D Printing Service Datasheet
 
 **3D Printing**
-- Orange ESUN PLA+ filament (black spray painting available)
+- Orange/Black ESUN PLA+ filament (black/red spray painting available)
 - 22cm x 22cm x 25cm build volume
 - Ships from Chennai
 
 **Rates**
-- ₹100 fixed rate + ₹10 per hour + ₹5 per gram of filament + ₹50 black spray paint (optional)
+- ₹100 fixed rate + ₹10 per hour + ₹5 per gram of filament + ₹50 black/red spray paint (optional)
 - Shipping cost extra
 
 **Shipping**
