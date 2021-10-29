@@ -14,7 +14,7 @@
 
 **Delivery Time**
 - Printing normally takes a few hours give or take, depending on the size of the part, but mostly done on the same day
-- Orders posted within 24 hours or sent immediately through Lynk/Porter (Chennai only)
+- Orders picked up for delivery on the same or next day
 
 **Payment**
 - PayTM preferred
