@@ -10,8 +10,7 @@
 - Shipping cost extra
 
 **Shipping**
-- Shipping in Chennai through Lynk/Porter for (almost) instant delivery (₹100 - ₹200)
-- All-India through post (Speedpost, etc) ~ ₹150
+- Shipping all over India through Shiprocket
 
 **Delivery Time**
 - Printing normally takes a few hours give or take, depending on the size of the part, but mostly done on the same day
