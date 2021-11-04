@@ -22,3 +22,9 @@
 **Contact**
 - Discord: NNNI#6070
 - Note: I don't take more than two orders at the same time
+
+**Samples**
+![Corne Keyboard HiPro Case](https://github.com/NNNIIndia/3D-Printing-Services/blob/main/samples/20211104_201351.jpg)
+![Corne Keyboard HiPro Case](https://github.com/NNNIIndia/3D-Printing-Services/blob/main/samples/20211104_201358.jpg)
+![Corne Keyboard HiPro Case](https://github.com/NNNIIndia/3D-Printing-Services/blob/main/samples/20211104_201437.jpg)
+
